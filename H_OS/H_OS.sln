@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_OS", "H_OS\H_OS.csproj", "{3C3A9F57-12D1-4430-8C5E-DFCD4D5E1B11}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "H_OSBoot", "H_OS\H_OSBoot.Cosmos", "{10F63D98-3FD9-4AB1-B141-C134281A3616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3A9F57-12D1-4430-8C5E-DFCD4D5E1B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3A9F57-12D1-4430-8C5E-DFCD4D5E1B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3A9F57-12D1-4430-8C5E-DFCD4D5E1B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3A9F57-12D1-4430-8C5E-DFCD4D5E1B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F63D98-3FD9-4AB1-B141-C134281A3616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F63D98-3FD9-4AB1-B141-C134281A3616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F63D98-3FD9-4AB1-B141-C134281A3616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F63D98-3FD9-4AB1-B141-C134281A3616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7581240E-EEE9-44E6-830F-26A6FB592F8A}
+	EndGlobalSection
+EndGlobal

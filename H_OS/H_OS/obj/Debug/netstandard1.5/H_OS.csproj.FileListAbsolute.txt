@@ -1,0 +1,9 @@
+E:\Projects\H_OS\H_OS\H_OS\bin\Debug\netstandard1.5\H_OS.deps.json
+E:\Projects\H_OS\H_OS\H_OS\bin\Debug\netstandard1.5\H_OS.dll
+E:\Projects\H_OS\H_OS\H_OS\bin\Debug\netstandard1.5\H_OS.pdb
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.csprojResolveAssemblyReference.cache
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.csproj.CoreCompileInputs.cache
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.AssemblyInfoInputs.cache
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.AssemblyInfo.cs
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.dll
+E:\Projects\H_OS\H_OS\H_OS\obj\Debug\netstandard1.5\H_OS.pdb
